@@ -1,0 +1,32 @@
+{
+  "machine_id": 1,
+  "machine_name": "machine1",
+  "machine_desc": "machine1 description",
+  "time_available": [
+    {
+      "start_time": "8:00am",
+      "end_time": "10:00pm",
+      "status": false
+    },
+    {
+      "start_time": "10:00pm",
+      "end_time": "12:00am",
+      "status": true
+    },
+    {
+      "start_time": "12:00am",
+      "end_time": "2:00am",
+      "status": true
+    },
+    {
+      "start_time": "2:00am",
+      "end_time": "4:00am",
+      "status": true
+    },
+    {
+      "start_time": "4:00am",
+      "end_time": "6:00am",
+      "status": true
+    }
+  ]
+}
